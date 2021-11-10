@@ -1,2 +1,4 @@
-# email-pass---email-pass
-email:pass -> email|pass 
+email and pass gen
+Creats a random email and password
+
+email:pass
