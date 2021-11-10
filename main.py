@@ -18,7 +18,7 @@ def ascii():
          ░    ░  ░   ░                 ░         ░ ░           ░ 
      
                                                                  
-                   ({Fore.YELLOW}MODULE{Fore.RED}) » {Fore.YELLOW} email:pass -> email|pass{Fore.RESET}                                          
+                   ({Fore.YELLOW}MODULE{Fore.RED}) » {Fore.YELLOW} Email Gen{Fore.RESET}                                          
 """)
 
 
